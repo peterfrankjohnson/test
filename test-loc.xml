@@ -1,0 +1,62 @@
+<?xml version="1.0"?>
+<Locations >
+  <Project>
+    <vfs_file>/home/peter/Documents/github/peterfrankjohnson/test/test.gpr</vfs_file>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_file>/home/peter/.gps/log_files/instructiontoken.ads$log</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_file>/home/peter/.gps/log_files/my_tests.ads$log</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_file>/home/peter/.gps/log_files/New_Test2.adb$log</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_file>/home/peter/.gps/log_files/New_Test2.ads$log</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_file>/home/peter/.gps/log_files/New_Test.ads$log</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_file>/home/peter/.gps/log_files/opcode.adb$log</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_file>/home/peter/.gps/log_files/opcode.ads$log</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_file>/home/peter/.gps/log_files/my_tests.adb$log</vfs_file>
+    </file_marker>
+    <file_marker current="true" column=" 1" line=" 1" >
+      <vfs_file>/home/peter/Documents/github/peterfrankjohnson/assembler/test/my_tests.adb</vfs_file>
+    </file_marker>
+  </Project>
+  <Project >
+    <file_marker column=" 1" line=" 1">
+      <vfs_file >/home/peter/.gps/log_files/instructiontoken.ads$log</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1">
+      <vfs_file >/home/peter/.gps/log_files/my_tests.ads$log</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1">
+      <vfs_file >/home/peter/.gps/log_files/New_Test2.adb$log</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1">
+      <vfs_file >/home/peter/.gps/log_files/New_Test2.ads$log</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1">
+      <vfs_file >/home/peter/.gps/log_files/New_Test.ads$log</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1">
+      <vfs_file >/home/peter/.gps/log_files/opcode.adb$log</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1">
+      <vfs_file >/home/peter/.gps/log_files/opcode.ads$log</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1">
+      <vfs_file >/home/peter/.gps/log_files/my_tests.adb$log</vfs_file>
+    </file_marker>
+    <file_marker current="true" column=" 1" line=" 1">
+      <vfs_file >/home/peter/Documents/github/peterfrankjohnson/assembler/test/my_tests.adb</vfs_file>
+    </file_marker>
+  </Project>
+</Locations>

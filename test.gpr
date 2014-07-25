@@ -1,0 +1,9 @@
+project Test is
+
+   package Ide is
+      for Vcs_Repository_Root use "git@github.com:peterfrankjohnson/test.git";
+      for Vcs_Kind use "Git";
+   end Ide;
+
+end Test;
+
